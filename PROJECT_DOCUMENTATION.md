@@ -23,7 +23,7 @@ The theme for this hackathon is a random quote generator.
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for working styles.css
 
 ### Name 3:
 
