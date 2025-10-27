@@ -27,4 +27,6 @@ The theme for this hackathon is a random quote generator.
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features].
+- Was responsible for working on script.js, handling the JavaScript logic for fetching and displaying random quotes using async/await, and ensuring error handling and fallback features worked correctly.
+
+
