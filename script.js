@@ -81,7 +81,7 @@ async function getRandomQuote() {
 // Wire up button click
 btn.addEventListener("click", getRandomQuote);
 
-//fetch one quote on page load for nicer UX
+//  fetch one quote on page load for nicer UX
 window.addEventListener("DOMContentLoaded", () => {
   renderQuote({ content: "Click the button to get a quote!", author: "" });
 });
