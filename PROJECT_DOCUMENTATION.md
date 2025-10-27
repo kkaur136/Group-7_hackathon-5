@@ -27,4 +27,4 @@ The theme for this hackathon is a random quote generator.
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features].
+-   was responsible for working on script.js
